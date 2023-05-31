@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+header{
+    height:120px;
+    background-color: rgb(151, 230, 34)
+}
+html{
+    background-color:rgb(169, 255, 89)
+    }
+.naslovsajta{
+        margin-top: 1px;
+        text-align: center;
+        margin-left:300px;
+        margin-right:350px; 
+        text-transform: uppercase;
+        color:darkgreen;
+        padding-top:47px;
+      }
+nav {
+        background-color: rgb(255, 255, 55);
+        height: 40px;
+      }
+      
+nav ul {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 15px;
+        position: absolute;
+        float: left;
+        text-transform: uppercase;
+      }
+nav li {
+        display: inline-block;
+      }
+ nav a {
+        background: #196205;
+        color: #e3eb6c;
+        padding: 15px;
+        text-decoration-line: underline;
+      }
+      
+ nav a:hover {
+        background: darkolivegreen;
+        box-shadow: 0 0 10px 1px rgba(0, 0, 0, .3);
+      }
+p{
+  background-color:rgb(252, 252, 112); 
+  color: #134904;
+  font-size: 20px;
+}
+h2{
+  color: darkgreen;
+}
+.polozaj1{
+  float: right;
+}
+footer{
+  height:30px;
+  background-color:rgb(255, 255, 55);
+  text-align: center;
+}
+.naslovsajta2{margin-top: 1px;
+  text-align: left; 
+  color:darkgreen;
+  padding-top:47px;
+
+}
+.polozaj2{
+  float: right;
+}
+.cntr{
+  text-align: center;
+  color: #ff6c09;
+  text-decoration:underline;
+}
+ol{
+  font-family: 'Times New Roman', Times, serif;
+  list-style-type: circle;
+  color: #fd6107;
+  font-size: 20px;
+}
+ul{
+  font-family: 'Times New Roman', Times, serif;
+  color: #134904;
+  font-size: 20px;
+}
+.tornik{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dashed;
+  border-color: #fd6107;
+}
+.podnaslov{
+  color: #fd6107;
+}
+table, td,th{
+  border: 3px solid#fd6107  ;
+  border-collapse: collapse;
+  text-align: center;
+  color: #134904;
+  background-color: rgb(255, 255, 55);
+}
+.avantura{
+  float:right;
+  border-style: dotted;
+  border-color: #fd6107;
+}
+.rest{
+  color: #fd6107;
+  background-color:rgb(252, 252, 112);
+}
+.zb{
+  border-style: dashed;
+  border-color: #fd6107;
+}
